@@ -2242,6 +2242,17 @@ module.exports = createProxy("C:\\Users\\Rishabh\\Downloads\\crowdfunding\\EcoFo
 
 /***/ }),
 
+/***/ "(rsc)/./node_modules/.pnpm/next@14.2.16_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/client/components/noop-head.js":
+/*!*******************************************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/next@14.2.16_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/client/components/noop-head.js ***!
+  \*******************************************************************************************************************************************/
+/***/ ((module, exports) => {
+
+"use strict";
+eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));\nObject.defineProperty(exports, \"default\", ({\n    enumerable: true,\n    get: function() {\n        return NoopHead;\n    }\n}));\nfunction NoopHead() {\n    return null;\n}\nif ((typeof exports.default === \"function\" || typeof exports.default === \"object\" && exports.default !== null) && typeof exports.default.__esModule === \"undefined\") {\n    Object.defineProperty(exports.default, \"__esModule\", {\n        value: true\n    });\n    Object.assign(exports.default, exports);\n    module.exports = exports.default;\n} //# sourceMappingURL=noop-head.js.map\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvLnBucG0vbmV4dEAxNC4yLjE2X3JlYWN0LWRvbUAxOC4zLjFfcmVhY3RAMTguMy4xX19yZWFjdEAxOC4zLjEvbm9kZV9tb2R1bGVzL25leHQvZGlzdC9jbGllbnQvY29tcG9uZW50cy9ub29wLWhlYWQuanMiLCJtYXBwaW5ncyI6Ijs7OzsyQ0FBQTs7O2VBQXdCQTs7O0FBQVQsU0FBU0E7SUFDdEIsT0FBTztBQUNUIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbXktdjAtcHJvamVjdC8uLi8uLi8uLi9zcmMvY2xpZW50L2NvbXBvbmVudHMvbm9vcC1oZWFkLnRzeD85ZDU2Il0sIm5hbWVzIjpbIk5vb3BIZWFkIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/.pnpm/next@14.2.16_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/client/components/noop-head.js\n");
+
+/***/ }),
+
 /***/ "(rsc)/./node_modules/.pnpm/next@14.2.16_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/client/components/not-found-boundary.js":
 /*!****************************************************************************************************************************************************!*\
   !*** ./node_modules/.pnpm/next@14.2.16_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/client/components/not-found-boundary.js ***!

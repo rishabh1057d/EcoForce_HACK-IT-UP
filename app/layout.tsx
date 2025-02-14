@@ -8,8 +8,8 @@ import type React from "react" // Added import for React
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "FundForward - Modern Crowdfunding Platform",
-  description: "A modern crowdfunding platform for making a difference",
+  title: "EcoForce",
+  description: "A community-driven platform for sustainable living.",
 }
 
 export default function RootLayout({
