@@ -2,10 +2,14 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Search } from "lucide-react"
 import { Input } from "./ui/input"
+import Head from 'next/head'
 
 export function Header() {
   return (
     <header className="border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+      <Head>
+        <title>EcoForce - Modern Crowdfunding</title>
+      </Head>
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-8">
           <Link href="/" className="font-bold text-xl">

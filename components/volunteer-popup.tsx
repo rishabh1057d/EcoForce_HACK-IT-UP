@@ -27,7 +27,7 @@ export function VolunteerPopup() {
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button variant="filled" className="fixed bottom-4 right-4 z-50">
+        <Button variant="default" className="fixed bottom-4 right-4 z-50">
           <Users className="mr-2 h-4 w-4" />
           Volunteer Opportunities
         </Button>
