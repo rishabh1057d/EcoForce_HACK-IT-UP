@@ -1,8 +1,6 @@
 # EcoForce_HACK-IT-UP
 # 🌱 EcoForce - Empowering Communities for a Greener Future
 
-![EcoForce Banner](https://your-image-url.com)
-
 ### 🚀 Built for **Hack-it-Up** | Team: **Hackoholics** | Theme: **GreenTech (Sustainability & Environment)**
 
 ---
