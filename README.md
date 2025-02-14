@@ -92,14 +92,3 @@ We welcome contributions! Feel free to **fork this repository** and submit a pul
 5. Open a Pull Request.
 
 ---
-
-## 📜 License
-This project is **open-source** and available under the **MIT License**.
-
----
-
-## 📞 Contact Us
-Got questions or suggestions? Reach out to **Team Hackoholics** at:
-📧 Email: hackoholics@hackathon.com  
-🔗 GitHub: [github.com/yourusername/ecoforce](https://github.com/yourusername/ecoforce)  
-🌿 Let's make a difference together! 🌍✨
